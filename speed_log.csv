@@ -1,0 +1,10 @@
+timestamp,vehicle_id,type,direction,speed_kmh,speed_limit,overspeeding,image
+2026-10-05T18:01:13,2,truck,down,29.0,60.0,False,
+2026-10-05T18:01:14,8,car,up,31.0,60.0,False,
+2026-10-05T18:01:15,13,car,up,30.0,60.0,False,
+2026-10-05T18:01:15,6,car,down,34.6,60.0,False,
+2026-10-05T18:01:20,19,car,up,33.3,60.0,False,
+2026-10-05T18:01:22,7,car,down,39.1,60.0,False,
+2026-10-05T18:01:24,23,truck,up,30.0,60.0,False,
+2026-10-05T18:01:26,11,car,down,40.9,60.0,False,
+2026-10-05T18:01:27,17,truck,down,33.3,60.0,False,
